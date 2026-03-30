@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="a.png"
-    alt="Mayss Jaballi - Full Stack Developer Portfolio"
-    width="700"
-  />
-</p>
 
 <h1 align="left">Hey 👋<br>Welcome to my GitHub profile!</h1>
 
